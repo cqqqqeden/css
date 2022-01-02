@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@RestrictedWord 
-RestrictedWord
-/
-KirkaDarkMode
-Public
-Code
-Issues
-Pull requests
-Actions
-Wiki
-Security
-Insights
-Settings
-KirkaDarkMode/DarkMode.css
-@RestrictedWord
-RestrictedWord Update DarkMode.css
-Latest commit 3501b86 14 minutes ago
- History
- 1 contributor
-659 lines (644 sloc)  18.2 KB
-   
 body {
     font-family: Exo\ 2;
     line-height: 1.2;
@@ -685,15 +657,3 @@ hr[data-v-d9238ce6] {
     flex-direction: column;
     align-items: flex-start
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
