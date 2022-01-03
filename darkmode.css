@@ -427,6 +427,8 @@ hr[data-v-d9238ce6] {
     background-color: rgba(0, 0, 0, 0.1) !important;
     padding:0px 0px 0px !important;
     border-radius: 0px;
+    border-style: solid;
+    border-color: hsla(0, 0%, 100%, 0.07);
 }
  
 .top-bar[data-v-0238bf17] {
