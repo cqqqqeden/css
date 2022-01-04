@@ -593,11 +593,10 @@ hr[data-v-d9238ce6] {
     font-size: 4.5rem
 }
 .weapons-cont {
-	position: fixed;
-	margin-right: 46.5%;
+	position: center;
+	margin-right: 48%;
 	margin-bottom: 18%;
 	transform: unset;
-
 }
 .active-tab[data-v-3547fad6] {
     color: var(--primary-1);
