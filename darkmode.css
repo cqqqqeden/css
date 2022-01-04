@@ -291,6 +291,7 @@ hr[data-v-d9238ce6] {
     position: relative
 }
 .messages[data-v-76a3fe0a] {
+    backdrop-filter: blur(6px) !important;
     background-color: rgba(0,0,0,.4) !important;
     display: flex;
     flex-direction: column;
