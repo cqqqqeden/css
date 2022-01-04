@@ -196,7 +196,8 @@ hr[data-v-d9238ce6] {
     position: relative
 }
 .bg[data-v-1d4749de] {
-    background: rgba(0,0,0,.5);
+    backdrop-filter: blur(6px) !important;
+    background: rgba(0,0,0,.5) !important;
     border-radius: 3px;
     box-shadow: 0 2px 0 rgba(0,0,0,.31);
     padding: .4rem .6rem;
@@ -326,9 +327,16 @@ hr[data-v-d9238ce6] {
     border-radius: 5px;
     padding: 0;
     background: rgba(0,0,0,.4) !important;
-    box-shadow: 0 4px 0 rgba(0,0,0,.25) !important;
-    border-radius: 20px;
-    color: var(--white)
+    backdrop-filter: blur(6px) !important;
+    box-shadow: transparent !important;
+    .player[data-v-b427fee8] {
+    display: flex;
+    margin-top: .7rem;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: .5rem .7rem .5rem 1rem;
+    position: relative
 }
 
 .head[data-v-2a5e9e8d] {
