@@ -163,7 +163,8 @@ hr[data-v-d9238ce6] {
     font-size: 1.2rem
 }
 .right-container[data-v-b427fee8] {
-    background: rgba(0, 0, 0, 0.03) !important;
+    backdrop-filter: blur(6px) !important;
+    background-color: rgba(22, 25, 24, 0.44) !important;
     max-width: 58.688rem;
     width: 100%;
     margin-top: 0rem;
@@ -371,7 +372,7 @@ hr[data-v-d9238ce6] {
     justify-content: space-between
 }
 .mWwn[data-v-86159fd0] {
-    display: flex;
+    display: none;
     background: url("https://cdn.discordapp.com/attachments/919511402853580860/927218959823020032/ammo_icon.png") center 100% / 100% !important;
     align-items: center;
     font-size: 0rem;
@@ -588,11 +589,15 @@ hr[data-v-d9238ce6] {
     border-bottom: solid .125rem var(--secondary-1);
     color: var(--white)
 }
+.ammunition[data-v-86159fd0] {
+    font-size: 4.5rem
+}
 .weapons-cont {
 	position: fixed;
-	margin-right: 43%;
+	margin-right: 46.5%;
 	margin-bottom: 18%;
 	transform: unset;
+
 }
 .active-tab[data-v-3547fad6] {
     color: var(--primary-1);
@@ -694,4 +699,16 @@ hr[data-v-d9238ce6] {
 .state {
 	margin-left: 37%;
 	transform: unset;
+}
+.desktop-game-interface[data-v-6a4c5c6d] {
+    background: url("https://cdn.discordapp.com/attachments/919511402853580860/927884832636293162/overlay.png") center 100% / 100% !important;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    z-index: 2;
+    font-family: Exo\ 2;
+    pointer-events: none
 }
