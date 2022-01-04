@@ -329,6 +329,7 @@ hr[data-v-d9238ce6] {
     background: rgba(0,0,0,.4) !important;
     backdrop-filter: blur(6px) !important;
     box-shadow: transparent !important;
+}
     .player[data-v-b427fee8] {
     display: flex;
     margin-top: .7rem;
@@ -428,10 +429,6 @@ hr[data-v-d9238ce6] {
     align-items: flex-end;
     padding-top: .8rem
 }
-
-
-
-
 .background[data-v-7a2de70d] {
     -webkit-backdrop-filter: blur(6px) !important;
     backdrop-filter: blur(6px) !important;
@@ -604,8 +601,8 @@ hr[data-v-d9238ce6] {
 }
 .weapons-cont {
 	position: center;
-	margin-right: 48%;
-	margin-bottom: 18%;
+	margin-right: 38%;
+	margin-bottom: 16%;
 	transform: unset;
 }
 .active-tab[data-v-3547fad6] {
@@ -616,8 +613,8 @@ hr[data-v-d9238ce6] {
 }
 .kill-death {
 	position: fixed;
-	right: 1px;
-	bottom: 2%;
+	right: 1760px;
+	bottom: 91%;
 	left: unset !important;
 	top: unset !important;
 }
@@ -710,7 +707,7 @@ hr[data-v-d9238ce6] {
 	transform: unset;
 }
 .desktop-game-interface[data-v-6a4c5c6d] {
-    background: url("https://cdn.discordapp.com/attachments/919511402853580860/927884832636293162/overlay.png") center 100% / 100% !important;
+    background: url("https://cdn.discordapp.com/attachments/919511402853580860/927903146267775006/overlay.png") center 100% / 100% !important;
     position: absolute;
     display: flex;
     justify-content: center;
@@ -721,3 +718,4 @@ hr[data-v-d9238ce6] {
     font-family: Exo\ 2;
     pointer-events: none
 }
+
