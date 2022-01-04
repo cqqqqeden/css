@@ -186,7 +186,8 @@ hr[data-v-d9238ce6] {
 }
 .player[data-v-b427fee8] {
     display: flex;
-    background: rgba(0,0,0,.3);
+    backdrop-filter: blur(6px) !important;
+    background-color: rgba(0,0,0,.3) !important;
     margin-top: .7rem;
     align-items: center;
     justify-content: space-between;
