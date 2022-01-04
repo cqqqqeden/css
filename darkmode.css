@@ -528,6 +528,16 @@ hr[data-v-d9238ce6] {
     display: flex;
     justify-content: flex-start
 }
+.timer{
+	position: fixed;
+	right: 898px;
+}
+
+.team-score .label {
+	margin: 26.5px;
+	margin-left: 60px;
+	margin-right: 60px;
+}
  
 .tab[data-v-3d11cf09] {
     color: var(--gray-1);
@@ -578,11 +588,30 @@ hr[data-v-d9238ce6] {
     border-bottom: solid .125rem var(--secondary-1);
     color: var(--white)
 }
+.weapons-cont {
+	position: fixed;
+	margin-right: 43%;
+	margin-bottom: 18%;
+	transform: unset;
+}
 .active-tab[data-v-3547fad6] {
     color: var(--primary-1);
     backdrop-filter: blur(6px) !important;
     background-color: hsla(0, 0%, 100%, 0.03) !important;
     border-right: var(--secondary-1) solid 1px
+}
+.kill-death {
+	position: fixed;
+	right: 1px;
+	bottom: 2%;
+	left: unset !important;
+	top: unset !important;
+}
+.chat {
+	margin-bottom: -4%;
+}
+.mini-map-cont {
+	display: none;
 }
 .img-bg[data-v-1d9d2e16] {
     position: absolute;
@@ -658,4 +687,11 @@ hr[data-v-d9238ce6] {
     display: flex;
     flex-direction: column;
     align-items: flex-start
+}
+.list-weapons {
+	display: none !important;
+}
+.state {
+	margin-left: 37%;
+	transform: unset;
 }
