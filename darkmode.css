@@ -730,3 +730,9 @@ hr[data-v-d9238ce6] {
     align-content: flex-end;
     justify-content: flex-end
 }
+.logo[data-v-d9238ce6] {
+    content: url(https://cdn.discordapp.com/attachments/919511402853580860/928469500792303696/lorekirkalogo.png) !important;
+    position: absolute;
+    top: .5rem;
+    pointer-events: none
+}
