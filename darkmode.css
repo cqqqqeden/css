@@ -774,3 +774,12 @@ hr[data-v-d9238ce6] {
     background: linear-gradient(90.02deg,transparent .02%,rgba(48, 16, 16, 0.85) 25.53%,#2f0404 71.86%,transparent 99.98%);
     height: .813rem
 }
+.avatar-info[data-v-9dd62bd0] {
+    background: url("https://cdn.discordapp.com/attachments/919511402853580860/928541455381823488/loreborder_1.gif") center 100% / 100%;
+    margin-right: .5rem;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
