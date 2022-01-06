@@ -98,3 +98,12 @@
     z-index: 4;
     pointer-events: auto
 }
+.avatar-info[data-v-9dd62bd0] {
+    background: url("https://cdn.discordapp.com/attachments/919511402853580860/928541455381823488/loreborder_1.gif") center 100% / 100%;
+    margin-right: .5rem;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
