@@ -1,0 +1,100 @@
+/* Map Slection */
+.select-map[data-v-12636a5a] {
+    position: absolute;
+    right: 0;
+    top: 0;
+    backdrop-filter: blur(6px) !important;
+    background-color: rgba(22, 25, 24, 0.44) !important;
+    height: 23rem;
+    width: 15rem;
+    margin: .5rem;
+    border-radius: .3rem;
+    z-index: 4;
+    pointer-events: auto;
+    font-size: 1.5rem;
+    padding-top: .4rem
+}
+/* Toolbar background */
+.items[data-v-55b41379] {
+    margin-top: .4rem;
+    backdrop-filter: blur(6px) !important;
+    background-color: rgba(22, 25, 24, 0.44) !important;
+    max-width: 38.75rem;
+    padding: .5rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 0;
+    z-index: 5;
+    margin-bottom: .4rem;
+    font-family: Pixel;
+    pointer-events: auto
+}
+/* Selected Item */
+.active[data-v-41e9ba98] {
+    border: 3px solid #ed3332
+}
+/* Toolbar Wrapper */
+.item-wrapper[data-v-41e9ba98] {
+    height: 4rem;
+    width: 4rem;
+    backdrop-filter: blur(6px) !important;
+    background-color: rgba(47, 47, 47, 0.44) !important;
+    border: 3px solid hsla(0,0%,92.9%,.103);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-family: Exo\ 2
+}
+/* Item Menu */
+.select-items[data-v-0c21694e] {
+    backdrop-filter: blur(6px) !important;
+    background-color: rgba(0, 0, 0, 0.44) !important;
+    padding: .6rem
+}
+.item-wrapper[data-v-dab5bbe8] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    width: 4rem;
+    margin-left: .2rem;
+    backdrop-filter: blur(6px) !important;
+    background-color: rgba(22, 25, 24, 0.44) !important;
+    border: 3px solid hsla(0,0%,92.9%,.103);
+    position: relative;
+    margin-bottom: .2rem
+}
+.items[data-v-dab5bbe8] {
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    height: 33rem;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-left: .75rem;
+    position: relative;
+    scrollbar-color: rgba(58,58,58,.7) rgba(0,0,0,.4)
+}
+.all-items[data-v-dab5bbe8] {
+    max-width: 39rem;
+    width: 39rem;
+    height: 35rem;
+    border-radius: 5px;
+    border-top-right-radius: 0
+}
+.backpack[data-v-0c21694e] {
+    height: 100vh;
+    width: 100vw;
+    backdrop-filter: blur(6px) !important;
+    background-color: rgba(22, 25, 24, 0.44) !important;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 4;
+    pointer-events: auto
+}
