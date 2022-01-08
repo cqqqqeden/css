@@ -1,0 +1,9 @@
+@import url(https://raw.githack.com/LoreClanGG/css/main/darkmode.css);
+
+.crosshair-cont[data-v-0f24d8f9] {
+    background: url(https://i.imgur.com/jUhm56s.png)  center 100% / 100%;
+    width: 21px;
+    height: 21px;
+    position: center;
+    image-rendering: -moz-crisp-edges;
+}
