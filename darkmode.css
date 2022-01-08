@@ -809,3 +809,19 @@ img[src$="/assets/img/cup_2.7da17b4a.png"]{
     filter: drop-shadow(0 0 15px #ff7a00);
     max-width: 8rem
 }
+.container-card[data-v-747e6ab9] {
+    display: fixed;
+    flex-direction: column;
+    align-items: center;
+    background: var(--secondary-6);
+    border: 3px solid #12151f;
+    box-shadow: 0 .625rem 1.25rem rgba(0,0,0,.25);
+    border-radius: 1.25rem;
+    background-color: var(--secondary-1);
+    box-shadow: 0 0 6.9811px 4.36319px rgba(12,14,18,.25);
+    z-index: 20;
+    padding: 2rem;
+    position: relative;
+    right: 350px;
+    bottom: 100px;
+}
