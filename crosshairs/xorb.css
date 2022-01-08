@@ -1,0 +1,9 @@
+@import url(https://raw.githack.com/LoreClanGG/css/main/darkmode.css);
+
+.crosshair-cont[data-v-0f24d8f9] {
+    background: url(https://cdn.discordapp.com/attachments/901185531185074217/919971669714546708/gap4px.png)  center 100% / 100%;
+    width: 50px;
+    height: 50px;
+    position: center;
+    image-rendering: -moz-crisp-edges;
+}
