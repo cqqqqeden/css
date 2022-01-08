@@ -793,3 +793,19 @@ hr[data-v-d9238ce6] {
     justify-content: center;
     align-items: center
 }
+.card[data-v-5b2dc87c]:hover{
+ -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+img[src$="/assets/img/cup_2.7da17b4a.png"]{
+    content: url(https://cdn.discordapp.com/attachments/919511402853580860/929301977475727380/credit.png) !important;
+ 
+}
+.cup[data-v-174cb81c] {
+    position: absolute;
+    right: 1rem !important;
+    top: -5rem !important;
+    z-index: 1;
+    filter: drop-shadow(0 0 15px #ff7a00);
+    max-width: 8rem
+}
