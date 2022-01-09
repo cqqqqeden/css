@@ -281,11 +281,12 @@ hr[data-v-4520d328] {
     display: flex;
     align-items: center;
     position:  fixed !important;
-    right: 1488px !important;
+    right: 1486px !important;
     top: 121px;
     padding-left: 8px !important;
     padding-right: 8px !important;
     text-transform: uppercase;
+    font-weight: 600;
 }
 .progress-label[data-v-9dd62bd0]:hover {
         background: var(--secondary-2) !important;
