@@ -13,9 +13,9 @@ body {
     user-select: none;
     --black: #000;
     --white: #fff;
-    --primary-1: #ffb914;
-    --primary-2: #fcd373;
-    --primary-3: #b6830e;
+    --primary-1: #ed3332;
+    --primary-2: #f54948;
+    --primary-3: #b32424;
     --orange-1: #f2994a;
     --secondary-1: #161918;
     --secondary-2: #302a2c;
@@ -824,4 +824,16 @@ img[src$="/assets/img/cup_2.7da17b4a.png"]{
     position: relative;
     right: 350px;
     bottom: 200px;
+}
+.stat-name[data-v-41938989] {
+    color: #ed3332 !important;
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-transform: capitalize !important;
+}
+.stat-name[data-v-41938989] {
+    color: #ed3332 !important;
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-transform: capitalize !important;
 }
