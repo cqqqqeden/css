@@ -252,7 +252,7 @@ hr[data-v-d9238ce6] {
     max-height: 10rem
 }
 .input[data-v-a0b6da4a] {
-    border: .125rem solid #202639;
+    border-color: hsla(0, 0%, 100%, 0.07) !important;
     background: none;
     outline: none;
     background: var(--secondary-1);
