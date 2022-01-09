@@ -843,7 +843,7 @@ img[src$="/assets/img/cup_2.7da17b4a.png"]{
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 5px;
-
+    border-bottom: .25rem solid var(--secondary-6) !important;
 }
 .icon-btn[data-v-45658db6] {
     background-color: transparent;
