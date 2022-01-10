@@ -7,6 +7,7 @@
     position: center;
     width: 45px;
     image-rendering: -moz-crisp-edges;
+    image-rendering: pixelated;
 }
 
 /* Custom Badge Size */
