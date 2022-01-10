@@ -1,0 +1,17 @@
+@import url(https://raw.githack.com/LoreClanGG/css/main/darkmode.css);
+
+/* Always On-Screen Crosshair */
+.crosshair-cont[data-v-0f24d8f9] {
+    background: url(https://cdn.discordapp.com/attachments/919511402853580860/929944836864348190/default.png)  center 100% / 100%;
+    height: 45px;
+    position: center;
+    width: 45px;
+    image-rendering: -moz-crisp-edges;
+}
+
+/* Custom Badge Size */
+img[src$="https://media.discordapp.net/attachments/907255854313652254/929667003508199484/LoreBadge.png"]{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+}
